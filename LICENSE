@@ -1,0 +1,13 @@
+You have only 6 permissions with code on this server.
+
+1) Run the code with my public update server code, in my setup scripts, modified or unmodified.
+2) Study the code and learn from it, how to create your own solutions.
+3) Fork the code, into your own update server, but then you must delete anything that's marked with a DELETE file. A DELETE file, will be located in the same 
+ directory, if possible, and give the full path to the file, you MUST delete 
+ right after the fork.
+4) If the terms of the component's license disagree with these terms, the other license takes priority. No component license, means no other rights, except these!
+5) Because of the nature of what this is, there may be other programs in source, script, or binary form, that belong to someone else, but the update server must use them. You MUST also follow whatever license they are under.
+6) You're not allowed to give out these programs, unless an individual license 
+ allows it.
+
+There is NO Waranty, express or implied. You MUST hold us non-liable for any damages that these programs make, even if we have been advised of such a possibility of damages.
